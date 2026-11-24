@@ -54,6 +54,21 @@ const CANDIDATES = [
     line: "The boss said 'we're a family here', and honestly that explains the unpaid overtime and the arguing at lunch.",
     scores: [2, 1, 1, 1, 1],
   },
+  {
+    title: "Status",
+    line: "I set my status to 'in a meeting' to get work done; it is the only meeting that has ever produced anything.",
+    scores: [2, 2, 2, 1, 1],
+  },
+  {
+    title: "Wi-Fi",
+    line: "The Wi-Fi went down for ten minutes and the whole office briefly remembered how to talk to each other, then it came back.",
+    scores: [2, 1, 2, 1, 1],
+  },
+  {
+    title: "Review",
+    line: "My performance review said 'exceeds expectations', which is easy when the expectations were set by last year's me.",
+    scores: [1, 2, 1, 2, 1],
+  },
 ];
 
 function total(candidate) {
