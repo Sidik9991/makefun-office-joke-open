@@ -25,4 +25,4 @@ mkdir -p /output && node main.ts
 
 ![bounty](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232.svg)
 ![rank](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/Sidik9991/makefun-office-joke-open/rank.svg)
-![reward](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/reward.svg)
+![reward](https://make.fun/badge/u-aldy998-make-the-ai-judge-laugh-the-office-joke-open-9920f232/Sidik9991/makefun-office-joke-open/reward.svg)
